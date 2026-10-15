@@ -1,0 +1,4 @@
+# Obsidian per-device state (keep .obsidian/ plugins/themes if you want them synced)
+obsidian/vault/.obsidian/workspace*.json
+obsidian/vault/.trash/
+.DS_Store
